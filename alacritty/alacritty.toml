@@ -1,0 +1,55 @@
+[env]
+TERM = "xterm-256color"
+
+[font]
+size = 11.0
+
+[font.bold]
+family = "MesloLGS Nerd Font"
+#family = "Jet Brains Mono NL"
+style = "Bold"
+
+[font.bold_italic]
+family = "MesloLGS Nerd Font"
+#family = "Jet Brains Mono NL"
+style = "Bold Italic"
+
+[font.italic]
+family = "MesloLGS Nerd Font"
+#family = "Jet Brains Mono NL"
+style = "Italic"
+
+[font.normal]
+family = "MesloLGS Nerd Font"
+#family = "Jet Brains Mono NL"
+style = "Regular"
+
+#Colors
+[colors.primary]
+background = "#141414"
+foreground = "#ffffd4"
+
+[colors.cursor]
+text = "#262626"
+cursor = "#ccd88c"
+
+[colors.normal]
+black = "#262626"
+red = "#c06d44"
+green = "#afb97a"
+yellow = "#c2a86c"
+blue = "#44474a"
+magenta = "#b4be7c"
+cyan = "#778385"
+white = "#ffffd4"
+
+[colors.bright]
+black = "#262626"
+red = "#de7c4c"
+green = "#ccd88c"
+yellow = "#e2c47e"
+blue = "#5a5e62"
+magenta = "#d0dc8e"
+cyan = "#8a989b"
+white = "#ffffd4"
+

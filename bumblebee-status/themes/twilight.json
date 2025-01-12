@@ -1,0 +1,11 @@
+{
+    "icons": [ "awesome-fonts" ],
+    "defaults": {
+          "fg": "#ffffd4",
+        "bg": "#141414",
+        "warning": {
+            "fg": "#c06d44",
+            "bg": "#ffffd4"
+        }
+    }
+}

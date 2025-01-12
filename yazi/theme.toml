@@ -1,0 +1,10 @@
+[manager]
+cwd = { fg="red"}
+border_style = {fg="red"}
+hovered = {fg="green"}
+preview_hovered = {fg="red"}
+
+[filetype]
+rules = [
+  { name = "*/", fg = "cyan" }
+]
