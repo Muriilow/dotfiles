@@ -1,0 +1,31 @@
+ black #141414
+
+red#C06D44
+
+darkGreen#AFB97A
+
+darkYellow#C2A86C
+
+grey#44474A
+
+darkGreen#B4BE7C
+
+darkBlue#778385
+
+white#FFFFD4
+
+black#262626
+
+lightRed#DE7C4C
+
+lightGreen#CCD88C
+
+yellow#E2C47E
+
+lightGrey#5A5E62
+
+lightGreen#D0DC8E
+
+lightBlue#8A989B
+
+white - #FFFFD4
