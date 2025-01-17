@@ -52,6 +52,13 @@ In this case I'm using i3wm as a window manager.
 
 - **Neovim**
 
-  Using nvchad, one day I will change the color scheme, but as for today their documentation sucks. 
+  Using nvchad, I setup manually my own color scheme in the following directory 
+  > /.local/share/nvim/lazy/base46/lua/base46/themes
 
+  It's just the twilight.lua arquive that respect a set of rules made for the custom shaders nvchad has. 
+
+- **XModMap**
+  
+  This is a tool that changes the keyboard, in my case I need it to use my slash and question mark keys.
+  
 - ****
