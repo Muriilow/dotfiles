@@ -1,9 +1,8 @@
 # i3 config file (v4)
 #Starting some Applications
-exec_always feh --bg-scale /home/muriilo/Pictures/wallpaper/wallpaper3.png 
-exec_always --no-startup-id xbindkeys
+exec_always feh --bg-scale /home/muriilo/Pictures/wallpaper/Jan-Wallpaper-APTheCreative.jpg 
 exec_always --no-startup-id picom
-
+exec_always --no-startup-id xmodmap ~/.Xmodmap
 #Font for windows titles 
 font pango:Meslo LGM Nerd Font 12
 
