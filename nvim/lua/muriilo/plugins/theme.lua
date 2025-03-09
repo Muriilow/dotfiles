@@ -1,4 +1,3 @@
-return 
-{
-        "savq/melange-nvim",
+return {
+ "rebelot/kanagawa.nvim"       
 }
