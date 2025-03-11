@@ -52,10 +52,7 @@ In this case I'm using i3wm as a window manager.
 
 - **Neovim**
 
-  Using nvchad, I setup manually my own color scheme in the following directory 
-  > /.local/share/nvim/lazy/base46/lua/base46/themes
-
-  It's just the twilight.lua arquive that respect a set of rules made for the custom shaders nvchad has. 
+Simple setup for neovim, not trying to do anything fancy.
 
 - **XModMap**
   
