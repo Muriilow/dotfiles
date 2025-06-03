@@ -1,10 +1,10 @@
 # i3 config file (v4)
 #Starting some Applications
-exec_always feh --bg-scale /home/muriilo/Pictures/wallpaper/Jan-Wallpaper-APTheCreative.jpg 
+exec_always feh --bg-scale /home/muriilo/Pictures/wallpaper/picture.png 
 exec_always --no-startup-id picom
 exec_always --no-startup-id xmodmap ~/.Xmodmap
 #Font for windows titles 
-font pango:Meslo LGM Nerd Font 12
+font pango:Meslo LGM Nerd Font 10
 
 #Commands by default
 ## https://wiki.archlinux.org/index.php/XDG_Autostart
@@ -37,7 +37,7 @@ floating_modifier Mod1
 tiling_drag modifier titlebar
 
 # start a terminal
-bindsym Mod1+Return exec alacritty 
+bindsym Mod1+Return exec kitty 
 
 # kill focused window
 bindsym Mod1+Shift+q kill

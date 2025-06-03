@@ -2,21 +2,20 @@ configuration {
   display-drun: "Applications:";
   display-window: "Windows:";
   drun-display-format: "{name}";
-  font: "Meslo LGM Nerd Font 12";
+  font: "JetBrains Mono 12";
   modi: "window,run,drun";
   show-icons: true;
-  icon-theme: "dracula-icons";
+  icon-theme: "Gruvbox-Plus-Dark";
 }
 
 @theme "/dev/null"
 
 * {
-  bg: #141414;
-  bg-alt: #afb97a;
+  bg: #000000;
+  bg-alt: #4e739f;
 
-  fg: #FFFFD4;
+  fg: #ffffff;
   fg-alt: #8a989b;
-
   background-color: @bg;
   
   border: 0;
@@ -46,7 +45,7 @@ element-text {
 }
 
 element-icon {
-  size: 30;
+  size: 22;
 }
 
 entry {
